@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Rithika%20Raju&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=16" width="100%" alt="Rithika Raju Banner">
+<img src="github-banner.png" width="100%" alt="Rithika R GitHub Banner">
 
 </div>
 
