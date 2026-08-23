@@ -132,20 +132,18 @@ A web-based healthcare management system designed to streamline patient care and
 </p>
 
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2>🐍 Contribution Graph</h2>
 
 <p align="center">
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg"
+         alt="GitHub contribution snake">
+  </picture>
 </p>
-
 
 <h2 align="center">🌐 Let's Connect</h2>
 
