@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="github-banner2.jpg" width="100%" alt="Rithika R GitHub Banner">
+<img src="github-banner3.png" width="100%" alt="Rithika R GitHub Banner">
 
 </div>
 
