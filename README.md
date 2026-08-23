@@ -120,7 +120,6 @@ A web-based healthcare management system designed to streamline patient care and
 
 </p>
 
-
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
@@ -128,12 +127,6 @@ A web-based healthcare management system designed to streamline patient care and
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithikaraju&bg_color=FFF0F5&color=9C4767&line=E75480&point=C2185B&area=true&area_color=F8A1C4&hide_border=true&custom_title=Rithika%20R%20-%20GitHub%20Activity"/>
 
 </p>
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithikaraju&bg_color=FFF0F5&color=9C4767&line=E75480&point=C2185B&area=true&area_color=F8A1C4&hide_border=true"/>
-
-</p>
-
 
 <h2 align="center">🐍 Contribution Graph</h2>
 
