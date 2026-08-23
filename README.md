@@ -43,7 +43,7 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="profile.jpg" width="220" alt="Rithika Raju"/>
+<img src="profile1.jpg" width="220" alt="Rithika Raju"/>
 
 </td>
 
