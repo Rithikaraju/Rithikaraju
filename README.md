@@ -5,17 +5,21 @@
 </div>
 
 <h1 align="center">
-  Hey there, I'm <span style="color:#A78BFA;">Rithika</span> 👋
+  Hey there, I'm <span style="color:#E75480;">Rithika</span> 👋
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Aspiring+Full+Stack+Developer;Data+Science+Enthusiast;AI+Project+Builder;Problem+Solver"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=E75480&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Aspiring+Full+Stack+Developer;Data+Science+Enthusiast;AI+Project+Builder;Problem+Solver"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Rithikaraju?style=for-the-badge&logo=github&label=Followers&color=A78BFA" />
-  <img src="https://img.shields.io/github/stars/Rithikaraju?style=for-the-badge&logo=github&label=Stars&color=A78BFA" />
-  <img src="https://komarev.com/ghpvc/?username=Rithikaraju&style=for-the-badge&color=A78BFA"/>
+
+<img src="https://img.shields.io/github/followers/Rithikaraju?style=for-the-badge&logo=github&label=Followers&color=E75480" />
+
+<img src="https://img.shields.io/github/stars/Rithikaraju?style=for-the-badge&logo=github&label=Stars&color=E75480" />
+
+<img src="https://komarev.com/ghpvc/?username=Rithikaraju&style=for-the-badge&label=PROFILE+VIEWS&color=E75480"/>
+
 </p>
 
 
@@ -56,11 +60,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-E75480?style=for-the-badge&logo=postman&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-D98BA8?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-E9A6B8?style=for-the-badge&logo=powerbi&logoColor=5A1930"/>
 
 </p>
 
@@ -71,7 +75,7 @@
 
 <a href="https://github.com/Rithikaraju">
 
-<img src="https://img.shields.io/badge/Integrated%20Patient%20Care%20Management%20System-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Integrated%20Patient%20Care%20Management%20System-C2185B?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -104,15 +108,15 @@ A web-based healthcare management system designed to streamline patient care and
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Data%20Science-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-E75480?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-C2185B?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-D98BA8?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-E9A6B8?style=for-the-badge&logo=powerbi&logoColor=5A1930"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-CF6F91?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </p>
 
@@ -121,29 +125,35 @@ A web-based healthcare management system designed to streamline patient care and
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rithikaraju&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+<img src="https://streak-stats.demolab.com?user=Rithikaraju&hide_border=true&background=FFF0F5&ring=E75480&fire=C2185B&currStreakLabel=C2185B&sideLabels=9C4767&currStreakNum=6B2145&sideNums=6B2145&dates=9C6B7D" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithikaraju&bg_color=0D1117&color=C4B5FD&line=A78BFA&point=8B5CF6&area=true&area_color=A78BFA&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithikaraju&bg_color=FFF0F5&color=9C4767&line=E75480&point=C2185B&area=true&area_color=F8A1C4&hide_border=true"/>
 
 </p>
 
 
-<h2>🐍 Contribution Graph</h2>
+<h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg"
-         alt="GitHub contribution snake">
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg">
+
+  <img src="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg"
+       alt="GitHub contribution snake">
+
+</picture>
+
 </p>
+
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -151,19 +161,19 @@ A web-based healthcare management system designed to streamline patient care and
 
 <a href="https://www.linkedin.com/in/rithika-ai-ds">
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
 <a href="mailto:rithikaraju2006@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
 <a href="https://github.com/Rithikaraju">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-6B2145?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -171,11 +181,11 @@ A web-based healthcare management system designed to streamline patient care and
 
 
 <p align="center">
-  Keep Learning • Keep Building • Keep Growing 🚀
+  <strong style="color:#E75480;">Keep Learning • Keep Building • Keep Growing 🚀</strong>
 </p>
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E75480&height=140&section=footer"/>
 
 </p>
