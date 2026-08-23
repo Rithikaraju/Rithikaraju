@@ -124,10 +124,15 @@ A web-based healthcare management system designed to streamline patient care and
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithikaraju&bg_color=FFF0F5&color=9C4767&line=E75480&point=C2185B&area=true&area_color=F8A1C4&hide_border=true&custom_title=Rithika%20R%20-%20GitHub%20Activity"/>
+<img src="https://streak-stats.demolab.com?user=Rithikaraju&hide_border=true&background=FFF0F5&ring=E75480&fire=C2185B&currStreakLabel=C2185B&sideLabels=9C4767&currStreakNum=6B2145&sideNums=6B2145&dates=9C6B7D&stroke=E8A0B8" />
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithikaraju&bg_color=FFF0F5&color=9C4767&line=E75480&point=C2185B&area=true&area_color=F8A1C4&hide_border=true&custom_title=Rithika%20R%20-%20GitHub%20Activity"/>
+
+</p>
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
