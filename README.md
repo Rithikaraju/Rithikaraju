@@ -120,7 +120,7 @@ A web-based healthcare management system designed to streamline patient care and
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rithikaraju&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=C2185B&text_color=6B2145&icon_color=E75480&border_color=E8A0B8&custom_title=Rithika%20R%20-%20GitHub%20Stats"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithikaraju&bg_color=FFF0F5&color=9C4767&line=E75480&point=C2185B&area=true&area_color=F8A1C4&hide_border=true&custom_title=Rithika%20R%20-%20GitHub%20Activity"/>
 
 </p>
 
