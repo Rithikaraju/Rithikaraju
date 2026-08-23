@@ -166,22 +166,9 @@ A full-stack healthcare management system designed to streamline patient care an
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rithikaraju&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E50914&icon_color=E50914&text_color=FFFFFF&ring_color=E50914"/>
+<img src="https://streak-stats.demolab.com?user=Rithikaraju&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithikaraju&layout=compact&hide_border=true&bg_color=0D1117&title_color=E50914&text_color=FFFFFF"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rithikaraju&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
-
-</p>
-
 <br>
 
 <h2 align="center">📊 GitHub Activity</h2>
