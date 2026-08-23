@@ -22,7 +22,6 @@
 
 </p>
 
-
 <h2 align="center">👩‍💻 About Me</h2>
 
 <table align="center">
@@ -30,13 +29,13 @@
 
 <td width="65%" valign="top">
 
-- 🎓 3rd Year B.Tech Artificial Intelligence & Data Science student.
-- 💻 AI & Data Science enthusiast passionate about building modern web applications.
-- 🚀 Aspiring Full Stack Developer building AI-powered and real-world projects.
-- 🌱 Currently learning Data Science, Full Stack Development, SQL, Power BI & Excel.
-- 🎯 Goal: Build products that solve real-world problems.
-- 🎨 Passionate about AI, Data Science, Art, Painting, and creating meaningful things.
-- ✨ Always exploring new ideas, technologies, and opportunities to grow.
+* 🎓 3rd Year B.Tech Artificial Intelligence & Data Science student.
+* 💻 AI & Data Science enthusiast passionate about building modern web applications.
+* 🚀 Aspiring Full Stack Developer building AI-powered and real-world projects.
+* 🌱 Currently learning Data Science, Full Stack Development, SQL, Power BI & Excel.
+* 🎯 Goal: Build products that solve real-world problems.
+* 🎨 Passionate about AI, Data Science, Art, Painting, and creating meaningful things.
+* ✨ Always exploring new ideas, technologies, and opportunities to grow.
 
 </td>
 
@@ -48,7 +47,6 @@
 
 </tr>
 </table>
-
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -67,7 +65,6 @@
 <img src="https://img.shields.io/badge/Power%20BI-E9A6B8?style=for-the-badge&logo=powerbi&logoColor=5A1930"/>
 
 </p>
-
 
 <h2 align="center">🚀 Featured Project</h2>
 
@@ -103,7 +100,6 @@ A web-based healthcare management system designed to streamline patient care and
 
 </p>
 
-
 <h2 align="center">📊 Data & Analytics</h2>
 
 <p align="center">
@@ -124,7 +120,7 @@ A web-based healthcare management system designed to streamline patient care and
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rithikaraju&hide_border=true&background=FFF0F5&ring=E75480&fire=C2185B&currStreakLabel=C2185B&sideLabels=9C4767&currStreakNum=6B2145&sideNums=6B2145&dates=9C6B7D&stroke=E8A0B8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rithikaraju&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=C2185B&text_color=6B2145&icon_color=E75480&border_color=E8A0B8&custom_title=Rithika%20R%20-%20GitHub%20Stats"/>
 
 </p>
 
@@ -133,24 +129,28 @@ A web-based healthcare management system designed to streamline patient care and
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithikaraju&bg_color=FFF0F5&color=9C4767&line=E75480&point=C2185B&area=true&area_color=F8A1C4&hide_border=true&custom_title=Rithika%20R%20-%20GitHub%20Activity"/>
 
 </p>
+
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg">
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake-dark.svg">
 
-  <img src="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg"
-       alt="GitHub contribution snake">
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg">
+
+<img
+ src="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg"
+ alt="GitHub contribution snake">
 
 </picture>
 
 </p>
-
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -176,13 +176,18 @@ A web-based healthcare management system designed to streamline patient care and
 
 </p>
 
-
 <p align="center">
-  <strong style="color:#E75480;">Keep Learning • Keep Building • Keep Growing 🚀</strong>
+
+<strong style="color:#E75480;">
+Keep Learning • Keep Building • Keep Growing 🚀
+</strong>
+
 </p>
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E75480&height=140&section=footer"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=E75480&height=140&section=footer"/>
 
 </p>
