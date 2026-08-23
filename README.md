@@ -136,7 +136,13 @@ A web-based healthcare management system designed to streamline patient care and
 
 <p align="center">
 
-<img src="https://github.com/Rithikaraju/Rithikaraju/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Rithikaraju/Rithikaraju/output/github-snake.svg">
+</picture>
 
 </p>
 
